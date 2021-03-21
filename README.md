@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sunnyyshc
+- 👀 I’m interested in solving problems that makes people happier. (i.e. whether that is a game for fun or automating things so users can do sth more valuable, etc.)
+- 🌱 I’m currently learning python, data science, NLP, computer vision and app development.  
+- 💞️ I’m looking to collaborate on ... anything I can contribute really.
+- 📫 You can reach me at <shcyeung@uwaterloo.ca> or <www.linkedin.com/in/sunny-yeung>.
